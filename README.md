@@ -1,2 +1,2 @@
 # Shapefiles
-Script to modify las data and shapefile
+Script to convert las tiles to Shapefile
